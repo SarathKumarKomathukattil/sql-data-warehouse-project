@@ -43,8 +43,7 @@ The cleaned data is organized using a dimensional model with fact and dimension 
 
 ## High-Level Architecture
 
-
-
+![High-Level Architecture](docs/high_level_architecture.png)
 
 ---
 
