@@ -124,6 +124,7 @@ Analyze sales performance, order activity, revenue trends, and changes over time
 
 ## Repository Structure
 
+```text
 data-warehouse-project/
 │
 ├── datasets/
@@ -141,7 +142,7 @@ data-warehouse-project/
 │   └── Data quality and validation queries
 │
 └── README.md
-
+```
 ---
 
 ## What I Learned
