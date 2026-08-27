@@ -122,7 +122,7 @@ Analyze sales performance, order activity, revenue trends, and changes over time
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
 ```text
 data-warehouse-project/
