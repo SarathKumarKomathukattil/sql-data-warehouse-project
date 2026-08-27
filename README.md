@@ -171,7 +171,7 @@ The main goal of this project is to demonstrate how raw data from different oper
 
 ## Acknowledgment
 
-This project was built as a hands-on learning project based on the Data With Baraa SQL Data Warehouse course.
+This project was developed as a hands-on learning project to strengthen my practical understanding of SQL data warehousing.
 
-I recreated the project while implementing and practicing the architecture, SQL development, ETL, data quality, and data modeling concepts myself.
+I implemented and practiced data warehouse architecture, SQL development, ETL, data quality, dimensional modeling, and analytical data preparation throughout the project.
 
