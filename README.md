@@ -1,6 +1,6 @@
 # SQL Data Warehouse Project
 
-## Project Overview
+## 📖 Project Overview
 
 This project focuses on building an end-to-end data warehouse in SQL Server using sales data collected from multiple source systems.
 
@@ -10,7 +10,7 @@ Through this project, I implemented the main stages of a typical data engineerin
 
 ---
 
-## Data Architecture
+## 🏗️ Data Architecture
 
 The warehouse follows a Medallion Architecture with three layers:
 
@@ -47,7 +47,7 @@ The cleaned data is organized using a dimensional model with fact and dimension 
 
 ---
 
-## Project Workflow
+## 🚀 Project Workflow
 
 The project covers the following areas:
 
