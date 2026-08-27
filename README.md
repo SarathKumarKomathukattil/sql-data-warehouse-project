@@ -41,9 +41,7 @@ The cleaned data is organized using a dimensional model with fact and dimension 
 
 ---
 
-## High-Level Architecture
-
-![High-Level Architecture](docs/high_level_architecture.png)
+## 🗺️ High-Level Architecture
 
 ---
 
@@ -73,7 +71,7 @@ Use SQL queries to analyze the final datasets and identify useful patterns, tren
 
 ---
 
-## Business Requirements
+## 📋 Business Requirements
 
 The data warehouse is designed to consolidate sales information from two source systems:
 
@@ -92,7 +90,7 @@ Historical tracking is outside the current project scope.
 
 ---
 
-## Analytics
+## 📊 Analytics
 
 The final warehouse supports analysis in areas such as:
 
@@ -110,13 +108,12 @@ Analyze sales performance, order activity, revenue trends, and changes over time
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - SQL Server
 - SQL Server Management Studio (SSMS)
 - T-SQL
 - CSV datasets
-- Draw.io
 - Git
 - GitHub
 
@@ -142,10 +139,10 @@ data-warehouse-project/
 │   └── Data quality and validation queries
 │
 └── README.md
-```
+
 ---
 
-## What I Learned
+## 🎯 What I Learned
 
 This project helped me gain practical experience with:
 
@@ -163,15 +160,15 @@ organizing a data engineering project using GitHub
 
 ---
 
-## Project Goal
+## 🎯 Project Goal
 
 The main goal of this project is to demonstrate how raw data from different operational systems can be transformed into a structured data warehouse that supports reliable reporting, analytics, and business decision-making.
 
 ---
 
-## Acknowledgment
+
+## 🙌 Acknowledgment
 
 This project was developed as a hands-on learning project to strengthen my practical understanding of SQL data warehousing.
 
 I implemented and practiced data warehouse architecture, SQL development, ETL, data quality, dimensional modeling, and analytical data preparation throughout the project.
-
