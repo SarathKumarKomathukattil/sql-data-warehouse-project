@@ -139,7 +139,7 @@ data-warehouse-project/
 │   └── Data quality and validation queries
 │
 └── README.md
-
+```text
 ---
 
 ## 🎯 What I Learned
